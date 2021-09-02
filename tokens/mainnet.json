@@ -2838,5 +2838,13 @@
     "symbol": "NFD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29/logo.png"
   }
 ]
